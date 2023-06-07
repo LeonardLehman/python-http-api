@@ -16,7 +16,7 @@ setup(
 
     author='XNT Ltd.',
     author_email='',
-    url='https://exante.eu',
+    url='https://ap-demo.exante.eu',
 
     license='GPL',
 
